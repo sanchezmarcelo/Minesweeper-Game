@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /*
  * @Author: Marcelo Sanchez
- * @Version: 6/28/19
+ * @Version: 6/28/17
  */
 
 public class Minesweeper {
